@@ -1,0 +1,1 @@
+<tr><td>К1341068</td><td>﻿Кольцо золотое</td><td>1</td><td>8150 руб.</td></tr><br><tr><td>02-1439/2</td><td>Серьги золотые</td><td>1</td><td>38850 руб.</td></tr><br><tr><td style="background:#e6e6fa;"><b>Итого к оплате: </b></td><td style="background:#e6e6fa; text-align: right; padding-right:40px;" colspan="4"><b>47000 руб.</b></td></tr>
